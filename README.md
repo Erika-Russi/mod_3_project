@@ -1,6 +1,6 @@
 # mod_3_project
 
-initial website to scrape:
+initial website to scrape(changed website later):
 https://www.winemag.com/toplists/bestbuys2018/
 
 kaggle dataset:
