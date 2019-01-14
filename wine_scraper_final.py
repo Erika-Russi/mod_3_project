@@ -3,6 +3,9 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 import pandas as pd
 
+#NOTE: you must download the chromedriver and place it in the 'usr/bin' folder
+#address to download: https://sites.google.com/a/chromium.org/chromedriver/downloads
+
 df = pd.read_csv('individual_urls.csv')
 
 listy = df['colummn'].tolist()
