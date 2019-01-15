@@ -20,3 +20,6 @@ https://www.noaa.gov/climate-data-and-reports #not working as of 1.7.19
 
 Ashenfelter's wine predictors
 https://www.betterment.com/resources/human-vs-algorithm-investing-a-lesson-from-wine-country/
+
+presentation:
+https://docs.google.com/presentation/d/1wuJzIsMUBB1ZaZOF4mK5vgnuDvCbCb9Iv_vpb-_z_HE/edit#slide=id.p
